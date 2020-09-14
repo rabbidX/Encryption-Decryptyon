@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Encryption-Decryption/task" />
+            <option value="$PROJECT_DIR$/Problems/Account Service" />
+            <option value="$PROJECT_DIR$/Problems/Catching some exceptions" />
+            <option value="$PROJECT_DIR$/Problems/Compact strings with AsciiCharSequence" />
+            <option value="$PROJECT_DIR$/Problems/Comparing strings ignoring whitespaces" />
+            <option value="$PROJECT_DIR$/Problems/Extracting a substring" />
+            <option value="$PROJECT_DIR$/Problems/Hello, Java platform" />
+            <option value="$PROJECT_DIR$/Problems/Incorrect comments" />
+            <option value="$PROJECT_DIR$/Problems/Pick your team" />
+            <option value="$PROJECT_DIR$/Problems/Shape hierarchy" />
+            <option value="$PROJECT_DIR$/Problems/The forgotten comments" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
